@@ -52,5 +52,5 @@ int main()
     tam=a+b;
     cout<<"--> Tong 2 so phuc la: ";cout<<tam;
     return 0000;
-    //yeu me
+    //yeu me alove you chụt chụt
 }
