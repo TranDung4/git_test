@@ -51,5 +51,6 @@ int main()
     cout<<"--> Hieu 2 so phuc la: ";cout<<tam;
     tam=a+b;
     cout<<"--> Tong 2 so phuc la: ";cout<<tam;
-    return 0;
+    return 0000;
+    //yeu me
 }
