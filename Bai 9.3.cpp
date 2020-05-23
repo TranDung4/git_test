@@ -51,6 +51,10 @@ int main()
     cout<<"--> Hieu 2 so phuc la: ";cout<<tam;
     tam=a+b;
     cout<<"--> Tong 2 so phuc la: ";cout<<tam;
+<<<<<<< HEAD
     return 0000;
     //yeu me alove you chụt chụt
+=======
+    return 0;
+>>>>>>> parent of a535739... Dung
 }
